@@ -1,0 +1,25 @@
+img.medium {
+  width: 325px;
+  height: 350px
+}
+
+.personal p {
+  margin: 8px
+  padding: 2px;
+  background-color: #d3d3d3
+}
+
+.work p {
+  margin: 8px
+  padding: 2px;
+  background-color: #d3d3d3
+}
+
+.column {
+  width: 1000px;
+  float: right;
+}
+
+body {
+  font-family: sans-serif;
+}
