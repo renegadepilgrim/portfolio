@@ -14,7 +14,7 @@ I do not have any specific setup instructions for this portfolio.
 
 ##Link to GitHub Page to View Portfolio
 
-https://github.com/renegadepilgrim/portfolio
+http://renegadepilgrim.github.io/portfolio
 
 ##License
 
